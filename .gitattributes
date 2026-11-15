@@ -1,0 +1,3 @@
+# Applied migrations use file checksums
+# this is to keep SQL line endings consistent.
+*.sql text eol=lf
